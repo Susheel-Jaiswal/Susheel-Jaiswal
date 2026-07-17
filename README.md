@@ -2,13 +2,13 @@
 
 **Data Analyst | Data Engineer | Python · SQL · Tableau · Power BI**
 
-I'm a data professional finishing my M.S. in Data Analytics at The Catholic University of America (Dec 2025), focused on turning raw data into decisions — through pipelines, dashboards, and analysis that hold up under scrutiny.
+I'm a data professional finishing my M.S. in Data Analytics at The Catholic University of America (Dec 2025), focused on turning raw data into decisions - through pipelines, dashboards, and analysis that hold up under scrutiny.
 
 ---
 
 ### About Me
 
-- 🎓 M.S. Data Analytics, The Catholic University of America — *Dec 2025* (merit scholarship)
+- 🎓 M.S. Data Analytics, The Catholic University of America - *Dec 2025* (merit scholarship)
 - 🎓 B.S. Computer Science, Osmania University
 - 💼 Data Analyst Intern @ Connyct (College Park, MD)
 - 💼 Programmer Analyst @ Cognizant Technology Solutions, Hyderabad
